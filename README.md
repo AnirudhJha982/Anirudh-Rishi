@@ -26,7 +26,7 @@ Aspiring Software Engineer passionate about problem-solving, software developmen
 
 # 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/anirudh-rishi/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -44,9 +44,9 @@ Aspiring Software Engineer passionate about problem-solving, software developmen
 
 # 💻 Tech Stack
 
-<p align="left">
+<p align="center">
 
-<img src=https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,vscode>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,vscode">
 
 </p>
 
