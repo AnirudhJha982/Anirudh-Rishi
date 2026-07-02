@@ -1,2 +1,112 @@
 # Anirudh-Rishi
 Aspiring Software Engineer passionate about problem-solving, software development, and building practical applications.
+<div align="center">
+
+# 👋 Hi, I'm Anirudh Rishi
+
+### 💻 Aspiring Software Engineer | CSE Student | Web Developer | Python Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Developer;Python+Developer;Learning+DSA;Always+Building+Projects" />
+
+</div>
+
+---
+
+# 🚀 About Me
+
+- 🎓 Second Year Computer Science Engineering Student
+- 💻 Passionate about Software Development
+- 🌱 Currently learning Data Structures & Algorithms
+- 🌐 Exploring Full Stack Web Development
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 📚 Love solving programming problems
+- 🚀 Building projects to improve my skills every day
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/anirudh-rishi/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/anirudhjha987/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="mailto:jhaanirudh982@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="left">
+
+<img src=https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,vscode>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=AnirudhJha982&show_icons=true&theme=github_dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Anirudhjha982&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudhjha982&theme=tokyonight&layout=compact&hide_border=true)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Anirudhjha982&theme=algolia&no-frame=true&no-bg=true&margin-w=15)
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Anirudhjha982&theme=tokyo-night)
+
+---
+
+# 🔥 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Anirudhjha982&style=for-the-badge&color=blue)
+
+---
+
+# ## 📌 Featured Projects
+
+🚆 **Railway Information System**  
+A railway management web application.
+
+🏏 **IPL Akinator**  
+Guess the IPL player through interactive questions.
+
+🧮 **Calculator**  
+A responsive calculator built with HTML, CSS, and JavaScript.
+
+---
+
+# 💡 Currently Learning
+
+- Data Structures & Algorithms
+- Full Stack Development
+- React.js
+- Node.js
+- Artificial Intelligence
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+</div>
